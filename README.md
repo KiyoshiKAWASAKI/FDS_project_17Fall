@@ -5,4 +5,8 @@ The project repository for FDS course 17 Fall semester
 1. 11/10/17 (FRI)
 - Finish data preparation and problem discussion. 
 2. 11/12/17 (SUN)
-- Finish feature selection
+- Finish correlation analysis.
+- Start with decision tree model.
+3. 11/16/17 (THR)
+- Continue to finish decision tree.
+- Try another 2-3 models.
