@@ -10,3 +10,6 @@ The project repository for FDS course 17 Fall semester
 3. 11/16/17 (THR)
 - Continue to finish decision tree.
 - Try another 2-3 models.
+4. 11/19/17 (SUN)
+- Finish modeling building and testing.
+- Slides making and presentation preparation.
