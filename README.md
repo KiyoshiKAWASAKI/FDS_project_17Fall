@@ -13,5 +13,8 @@ The project repository for FDS course 17 Fall semester
 4. 11/19/17 (SUN)
 - Finish modeling building and testing.
 - Slides making and presentation preparation.
-5. 11/16/17 (SUN)
+5. 11/26/17 (SUN)
 - Readings about building a ARIMA model.
+6. 12/07/17 (THR)
+- Adding other evaluation metrics to the models
+- Starting to do time series analysis.
