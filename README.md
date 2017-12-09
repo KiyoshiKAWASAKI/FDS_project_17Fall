@@ -16,5 +16,5 @@ The project repository for FDS course 17 Fall semester
 5. 11/26/17 (SUN)
 - Readings about building a ARIMA model.
 6. 12/07/17 (THR)
-- Adding other evaluation metrics to the models
+- Fill PM2.5 values in the test set
 - Starting to do time series analysis.
