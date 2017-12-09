@@ -20,6 +20,6 @@ The project repository for FDS course 17 Fall semester
 - Starting to do time series analysis.
 7. 12/10/17 (SAT)
 - Finish the following parts of final report: 
-  ~ Motivation and Background;
-  ~ Objective (dataset explanation and problems to be investigated); 
-  ~ Classification Model Development.
+  - Motivation and Background;
+  - Objective (dataset explanation and problems to be investigated); 
+  - Classification Model Development.
